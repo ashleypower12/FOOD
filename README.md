@@ -1,3 +1,3 @@
 # Lisa
 ## Thimira
-  Chintan
+  **Chintan**
