@@ -1,4 +1,4 @@
 # Lisa
-# Thimira
+### Thimira
 # Chintan
 **Lauryn**
